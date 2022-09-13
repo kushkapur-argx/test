@@ -1,5 +1,5 @@
 ---
-title: "Check Notebook"
+title: "Check"
 output: html_notebook
 ---
 
